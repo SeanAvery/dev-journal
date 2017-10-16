@@ -6,6 +6,25 @@ Goal: debug findPath null return
 
 Interesting that tx's are stored by index instead of the tx hash.
 
+Common bug when npm install certain crypto packags.
+
+```
+sha1-ZX2ISRe+e0o8HyRUzQmaxiHwppU= integrity checksum failed when using sha
+```
+
+to fix:
+
+```
+The following solved it for me:
+
+rm -rf node_modules
+
+rm package-lock.json
+
+rm -rf ~/.npm
+
+npm install --update-binary --no-shrinkwrap
+```
 ## 10/15 ##
 
 ### merkle-proof ###
