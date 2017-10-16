@@ -36,5 +36,8 @@ https://easythereentropy.wordpress.com/2014/06/04/understanding-the-ethereum-tri
 
 Goal: pull in youtube data set into python
 
+Downloading tar containing csv data and videos 25 GB's! (taking 2 hours). 
+Interesting to think about handeling large data sets. Do I push data into Github?
+Nope, max push of 100 MB...
 
 
