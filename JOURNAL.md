@@ -1,5 +1,11 @@
 # Journal #
 
+## 10/16 ##
+
+Goal: debug findPath null return
+
+Interesting that tx's are stored by index instead of the tx hash.
+
 ## 10/15 ##
 
 ### merkle-proof ###
