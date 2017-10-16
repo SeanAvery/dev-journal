@@ -25,6 +25,12 @@ rm -rf ~/.npm
 
 npm install --update-binary --no-shrinkwrap
 ```
+
+Looking into how to traverse the patricia tree in Zac's verifier lib 
+
+
+https://github.com/zmitton/eth-proof/blob/master/buildProof.js
+
 ## 10/15 ##
 
 ### merkle-proof ###
