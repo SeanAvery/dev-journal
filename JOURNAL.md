@@ -22,6 +22,8 @@ Need to make sure sufficient proof info.
 
 Goal: verify tx proof 
 
+... I need to learn more about patricia trees. --> studying up on yellow paper def.
+
 
 
 
