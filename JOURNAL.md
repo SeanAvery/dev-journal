@@ -32,6 +32,9 @@ https://stackoverflow.com/questions/14708134/what-is-the-difference-between-trie
 https://easythereentropy.wordpress.com/2014/06/04/understanding-the-ethereum-trie/
 
 
+### bio-coin ###
+
+Goal: pull in youtube data set into python
 
 
 
