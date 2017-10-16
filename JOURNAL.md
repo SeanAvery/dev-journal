@@ -25,6 +25,13 @@ Goal: verify tx proof
 ... I need to learn more about patricia trees. --> studying up on yellow paper def.
 
 
+https://ethereum.stackexchange.com/questions/6415/eli5-how-does-a-merkle-patricia-trie-tree-work
+
+https://stackoverflow.com/questions/14708134/what-is-the-difference-between-trie-and-radix-trie-data-structures
+
+https://easythereentropy.wordpress.com/2014/06/04/understanding-the-ethereum-trie/
+
+
 
 
 
