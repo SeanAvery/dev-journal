@@ -1,5 +1,20 @@
 # Journal #
 
+## 10/18  ##
+
+### bio-token ###
+reviewing facenet library, downloading cuda and pytorch. 
+
+### merkle-proof  ###
+
+Goal: fix tx trie 
+
+## 10/17 ##
+
+### Whisper ###
+
+Goal: Relay a message via whisper
+
 ## 10/16 ##
 
 Goal: debug findPath null return
