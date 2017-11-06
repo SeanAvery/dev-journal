@@ -1,5 +1,13 @@
 # Journal #
 
+## 11/6 ##
+
+devcon is over. time to get back to work.
+
+### solidity-casper ###
+
+starting to port over viper --> solidity casper contract
+
 ## 10/18  ##
 
 ### bio-token ###
