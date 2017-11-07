@@ -8,6 +8,15 @@ devcon is over. time to get back to work.
 
 starting to port over viper --> solidity casper contract
 
+viper docs ==> https://media.readthedocs.org/pdf/ethereum-viper/latest/ethereum-viper.pdf
+
+
+need to understand reason for using decimals.
+
+
+look into byte-slicing + rlp decoding to replicate viper contract in solidity
+
+
 ## 10/18  ##
 
 ### bio-token ###
