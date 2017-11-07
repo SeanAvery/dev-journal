@@ -8,6 +8,17 @@ looking into representing fix point decimals in solidity
 trying to understand "weak-subjectivity" -- https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity/
 
 
+long-range attack problem:
+
+- attacker can purchase "old" keys
+
+crypto-economics by Karl
+
+
+### cbc casper ###
+
+get cbc casper repo to run! 
+
 
 ## 11/6 ##
 
