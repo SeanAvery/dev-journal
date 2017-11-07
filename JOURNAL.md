@@ -1,5 +1,14 @@
 # Journal #
 
+## 11/7 ##
+
+looking into representing fix point decimals in solidity
+
+
+trying to understand "weak-subjectivity" -- https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity/
+
+
+
 ## 11/6 ##
 
 devcon is over. time to get back to work.
