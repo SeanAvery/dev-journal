@@ -20,6 +20,12 @@ crypto-economics by Karl
 get cbc casper repo to run! 
 
 
+running into strange utf8 error in matplotlib
+
+
+https://github.com/ethereum/cbc-casper/pull/1/ ---> interesting start for d3 viz
+
+
 ## 11/6 ##
 
 devcon is over. time to get back to work.
