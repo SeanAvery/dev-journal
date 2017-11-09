@@ -1,5 +1,17 @@
 # Journal #
 
+## 11/9 ##
+
+Stateless clients: https://ethresear.ch/t/the-stateless-client-concept/172
+
+STF(root, block, witness) -> root`
+
+
+
+Halting Problem: given a higher representation of instructions it is impossible to tell wether the program ends or runs forever.
+
+
+
 ## 11/7 ##
 
 looking into representing fix point decimals in solidity
