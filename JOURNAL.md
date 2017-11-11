@@ -1,5 +1,14 @@
 # Journal #
 
+## 11/11 ##
+
+Making progress on python_shell <--> webapp for d3 sim 
+
+
+Gauss Simulation: gaussian(mu, sigma) --> gaussian(mu', sigma) --> gaussian(mu'', sigma) --> ...
+
+
+
 ## 11/9 ##
 
 Stateless clients: https://ethresear.ch/t/the-stateless-client-concept/172
@@ -10,6 +19,15 @@ STF(root, block, witness) -> root`
 
 Halting Problem: given a higher representation of instructions it is impossible to tell wether the program ends or runs forever.
 
+
+Griefing Factor analysis of casper.
+
+
+
+Reviewing category theory.
+
+
+-- morphisms f : a --> b
 
 
 ## 11/7 ##
@@ -23,8 +41,6 @@ trying to understand "weak-subjectivity" -- https://blog.ethereum.org/2014/11/25
 long-range attack problem:
 
 - attacker can purchase "old" keys
-
-crypto-economics by Karl
 
 
 ### cbc casper ###
