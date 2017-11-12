@@ -1,5 +1,12 @@
 # Journal #
 
+## 11/12 ##
+
+Revewing Casper TFG paper
+
+- fix misspelling in Definition 2.1
+
+
 ## 11/11 ##
 
 Making progress on python_shell <--> webapp for d3 sim 
