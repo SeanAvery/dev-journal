@@ -1,5 +1,18 @@
 # Journal #
 
+## 11/14 ##
+
+Casper Standup:
+
+- History depth in the justification -> time measurement relative to a particular view 
+- “Consensus Time” —> put exponential cost on history depth 
+- If proposals are not in conflict, they can be collapsed (Re-write system from Vlad)
+- not solving flp, rather incentivized to come to consensus
+- such economics can disincentivize agent based faults
+- propose == rho calculus message combinator
+- promote == forwarder combinator
+- join == kill combinator 
+ 
 ## 11/12 ##
 
 Revewing Casper TFG paper
